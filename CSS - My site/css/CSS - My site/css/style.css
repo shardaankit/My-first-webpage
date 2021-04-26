@@ -1,0 +1,151 @@
+body{
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514E;
+
+
+
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  color: #66BFBF;
+}
+.para{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    margin-top: 50px;
+
+}
+h3{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  color: #11999E;
+
+}
+p{
+  line-height: 2;
+}
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 50px;
+  margin: 100px auto 100px auto;
+}
+a{
+
+  text-decoration: none;
+  color: white;
+  margin: 10px 20px;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+}
+.middle-container{
+
+
+}
+.profile{
+  margin-top: 50px;
+
+}
+
+.contact-me{
+  line-height: 4;
+}
+
+
+.bottom-container{
+  background-color: #11999E;
+padding: 30px;
+margin-top: 40px;
+
+
+}
+.pro{
+  text-decoration: underline;
+
+}
+.intro-description{
+  width: 30%;
+  margin: auto;
+}
+.contact-msg{
+  margin: 40px auto 40px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+
+
+}
+.bottom-cloud{
+  position: absolute;
+  left:250px;
+  bottom: 300px;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.chill{
+  float: left;
+  margin-right: 30px;
+}
+.cricket{
+float: right;
+  margin-left: 30px;
+}
+.intro-description{
+  color: #40514E;
+}
+.end-paragraph{
+  color: #EAF6F6;
+}
+.footer-link{
+
+
+
+}
+.BUTTON_LPX {
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+ font-family: 'Montserrat Subrayada', sans-serif;
+   width: 139px;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 22px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
